@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-05-15T16:04:05Z",
-    "evolved_rules_added": 42
+    "last_evolution": "2026-05-16T14:56:08Z",
+    "evolved_rules_added": 44
   },
   "rules": [
     {
@@ -13562,7 +13562,12 @@
       "parents": [
         "is_friday+kw_beautiful",
         "kw_china+kw_india"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
