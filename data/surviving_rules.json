@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-05-31T15:17:53Z",
-    "evolved_rules_added": 43
+    "last_evolution": "2026-06-01T19:20:51Z",
+    "evolved_rules_added": 45
   },
   "rules": [
     {
@@ -13325,7 +13325,12 @@
       "parents": [
         "kw_dow_2plus+kw_energy",
         "is_friday+kw_signed"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -13765,7 +13770,12 @@
       "parents": [
         "is_friday+kw_economy",
         "kw_ban+kw_biden"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14799,7 +14809,12 @@
       "parents": [
         "kw_deal_2plus+kw_economy",
         "kw_dow_2plus+kw_interest_rate"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14821,7 +14836,12 @@
       "origin": "mutation_replace",
       "born_date": "2026-05-31",
       "weight": 1.0,
-      "parent": "is_friday+kw_dow_2plus+open_tariff"
+      "parent": "is_friday+kw_dow_2plus+open_tariff",
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     }
   ]
 }
