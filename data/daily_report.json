@@ -1,21 +1,19 @@
 {
-  "date": "2026-06-02",
-  "generated_at": "2026-06-02T15:28:19Z",
-  "posts_today": 37,
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T15:38:11Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-06-02T13:06",
-    "content_preview": "I am appointing the Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/Fredd"
+    "time": "2026-06-03T02:54",
+    "content_preview": "EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:"
   },
   "signals_detected": [
     "DEAL",
-    "CHINA",
-    "IRAN",
     "DEAL_ONLY"
   ],
-  "models_triggered": 2,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 1,
-    "SHORT": 1,
+    "LONG": 0,
+    "SHORT": 0,
     "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
@@ -24,36 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-02",
-    "close": 7616.8
+    "date": "2026-06-03",
+    "close": 7569.74
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-02\nPosts today: 37 | Models triggered: 2\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 1 LONG vs 1 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I am appointing the Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/Fredd",
-    "zh": "川普密碼每日報告 -- 2026-06-02\n今日推文: 37 篇 | 觸發模型: 2 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 1 組看多 vs 1 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I am appointing the Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/Fredd",
-    "ja": "トランプ・コード日次レポート -- 2026-06-02\n本日の投稿: 37件 | トリガーモデル: 2組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 1組ロング vs 1組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I am appointing the Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/Fredd"
+    "en": "Trump Code Daily Report -- 2026-06-03\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:",
+    "zh": "川普密碼每日報告 -- 2026-06-03\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:",
+    "ja": "トランプ・コード日次レポート -- 2026-06-03\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_china",
-        "kw_corrupt",
-        "kw_economy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_america_first",
-        "kw_beautiful",
-        "kw_terrible"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
