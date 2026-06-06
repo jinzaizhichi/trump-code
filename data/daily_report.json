@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T15:04:32Z",
-  "posts_today": 6,
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T14:35:29Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-06-05T14:33",
-    "content_preview": "With a great Jobs Report, like just announced, stocks should go up, not down. That's the way it was "
+    "time": "2026-06-06T12:12",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-06-05",
-    "close": 7509.22
+    "close": 7383.74
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-05\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: With a great Jobs Report, like just announced, stocks should go up, not down. That's the way it was ",
-    "zh": "川普密碼每日報告 -- 2026-06-05\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: With a great Jobs Report, like just announced, stocks should go up, not down. That's the way it was ",
-    "ja": "トランプ・コード日次レポート -- 2026-06-05\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: With a great Jobs Report, like just announced, stocks should go up, not down. That's the way it was "
+    "en": "Trump Code Daily Report -- 2026-06-06\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
+    "zh": "川普密碼每日報告 -- 2026-06-06\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
+    "ja": "トランプ・コード日次レポート -- 2026-06-06\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376"
   },
   "triggered_rules_sample": []
 }
