@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-06-10T15:09:42Z",
-    "evolved_rules_added": 41
+    "last_evolution": "2026-06-11T15:14:23Z",
+    "evolved_rules_added": 45
   },
   "rules": [
     {
@@ -13018,6 +13018,31 @@
     },
     {
       "features": [
+        "open_energy",
+        "kw_energy",
+        "open_thank_you_for_your_attention"
+      ],
+      "direction": "LONG",
+      "hold": 1,
+      "id": "ca6986f45fb9",
+      "n_cond": 3,
+      "train_trades": 16,
+      "train_win_rate": 87.5,
+      "train_avg": 0.141,
+      "test_trades": 6,
+      "test_win_rate": 100.0,
+      "test_avg": 0.647,
+      "combined_score": 93.8,
+      "origin": "crossover",
+      "born_date": "2026-06-11",
+      "weight": 1.0,
+      "parents": [
+        "kw_tremendous+open_thank_you_for_your_attention",
+        "kw_energy+kw_interest_rate"
+      ]
+    },
+    {
+      "features": [
         "kw_deal_2plus",
         "kw_wonderful"
       ],
@@ -13504,7 +13529,12 @@
       "parents": [
         "kw_interest_rate+open_tariffs",
         "kw_biden+kw_president_of_the_united_states"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14385,7 +14415,12 @@
       "parents": [
         "kw_energy+kw_interest_rate",
         "kw_agreement+kw_thank_you_for_your_attention"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14806,35 +14841,6 @@
       "parents": [
         "kw_corrupt+kw_thank_you_for_your_attention",
         "kw_economy+open_tariffs"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "open_deal",
-        "kw_complete_and_total_2plus"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "4e814f652634",
-      "n_cond": 2,
-      "train_trades": 5,
-      "train_win_rate": 100.0,
-      "train_avg": 2.136,
-      "test_trades": 4,
-      "test_win_rate": 75.0,
-      "test_avg": 0.198,
-      "combined_score": 87.5,
-      "origin": "crossover",
-      "born_date": "2026-05-05",
-      "weight": 1.0,
-      "parents": [
-        "kw_fantastic+kw_tremendous_2plus",
-        "avg_len_long+kw_complete_and_total_2plus"
       ],
       "learn_stats": {
         "correct": 0,
