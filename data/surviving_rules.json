@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-06-20T14:49:18Z",
-    "evolved_rules_added": 47
+    "last_evolution": "2026-06-21T14:50:12Z",
+    "evolved_rules_added": 42
   },
   "rules": [
     {
@@ -12848,6 +12848,28 @@
     },
     {
       "features": [
+        "kw_maga",
+        "kw_thank_you_for_your_attention",
+        "kw_agreement"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "id": "ed5e311b23e7",
+      "n_cond": 3,
+      "train_trades": 9,
+      "train_win_rate": 88.9,
+      "train_avg": 1.319,
+      "test_trades": 3,
+      "test_win_rate": 100.0,
+      "test_avg": 0.733,
+      "combined_score": 94.4,
+      "origin": "mutation_replace",
+      "born_date": "2026-06-21",
+      "weight": 1.0,
+      "parent": "kw_agreement+kw_jobs+kw_thank_you_for_your_attention"
+    },
+    {
+      "features": [
         "kw_thank_you_for_your_attention",
         "open_energy"
       ],
@@ -13419,7 +13441,12 @@
       "parents": [
         "is_friday+kw_interest_rate",
         "kw_signed+kw_tariffs"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14829,35 +14856,6 @@
       "parents": [
         "is_friday+kw_economy",
         "kw_beautiful+open_tariffs"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "is_friday",
-        "kw_signed"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "4e4d7853f17f",
-      "n_cond": 2,
-      "train_trades": 8,
-      "train_win_rate": 75.0,
-      "train_avg": 0.083,
-      "test_trades": 3,
-      "test_win_rate": 100.0,
-      "test_avg": 0.603,
-      "combined_score": 87.5,
-      "origin": "crossover",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parents": [
-        "is_friday+kw_china",
-        "kw_signed+kw_tariff"
       ],
       "learn_stats": {
         "correct": 0,
